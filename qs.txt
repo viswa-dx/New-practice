@@ -1,0 +1,34 @@
+Tech round 1 -
+Garbage collection and it's methods
+?Classloaders in Java & it's types
+?Diamond problem in Java
+?Why string is immutable
+?intern method in java
+?equals and hashcode
+?how java is platform independent
+?What methods are there in Object class
+?differance between ArrayList and Linked List
+?Internal working of Hashmap
+?Print Hierarchy in an organization
+?Synchronization
+?Serializable and it's usage
+?multithreading - Race condition
+?Streams in Java8
+?add numbers using streams
+?IOC
+?DI
+?lifecyle of a bean
+?Types of Autowiring
+?@SpringbootApplication annotation
+?Eureka
+?Rest template methods for post
+?
+?Tech Round 2
+?
+?how to create immutable class
+?stop child thread from parent
+?abstraction
+?solid principales
+
+Followed by telephonic client round(Citi bank)
+Followed by HR round
